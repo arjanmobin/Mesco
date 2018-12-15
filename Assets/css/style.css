@@ -596,14 +596,17 @@ input, textarea {
   border-radius: 100em; }
 
 .btn-primary {
-  background: #0081FF;
+  background: rgb(255,0,0);
   -webkit-box-shadow: 0 5px 40px 0 rgba(0, 129, 255, 0.3);
-  box-shadow: 0 5px 40px 0 rgba(0, 129, 255, 0.3);
+  box-shadow: 0 5px 40px 0 rgba(200, 100, 100, 0.3);
   color: #fff; }
   .btn-primary:hover {
-    background: #0074e6;
+    background: #fff;
     -webkit-box-shadow: none;
-    box-shadow: none; }
+    box-shadow: none;
+    color: #222;
+  }
+
 
 .btn-white {
   background: #fff;
