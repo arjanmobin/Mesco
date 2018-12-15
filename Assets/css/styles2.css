@@ -65,7 +65,7 @@
 }
 
 .highlight-blue-hover:hover .card-icon{
-    background-color: #rgb(255,0,0) !important;
+    background-color: rgb(255,0,0) !important;
     transition: 0.25s;
 }
 
