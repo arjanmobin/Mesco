@@ -211,3 +211,7 @@ a:hover {
 .navbar-nav{
   padding-left: 20rem;
 }
+
+.nav-link .p-4 .active{
+  border: 1px solid black;
+}
