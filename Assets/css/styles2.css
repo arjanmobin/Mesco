@@ -215,3 +215,8 @@ a:hover {
 .nav-link .p-4 .active{
   border: 1px solid black;
 }
+
+.vertAlign{
+  display: flex;
+  align-items: center;
+}
