@@ -123,6 +123,12 @@ input, textarea {
 
    }
 
+   @media (max-width: 991px){
+     .home-logo{
+       display: none;
+     }
+   }
+
 .show-onHover {
   opacity: 0;
   -webkit-transition: .3s;
