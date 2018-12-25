@@ -249,7 +249,7 @@ input, textarea {
   transition-timing-function: ease; }
 
 .is-scrolling .hamburger-inner, .is-scrolling .hamburger-inner::before, .is-scrolling .hamburger-inner::after {
-  background-color: #fff; }
+  background-color: #000; }
 
 .hamburger-inner::before, .hamburger-inner::after {
   content: "";
@@ -511,7 +511,7 @@ input, textarea {
 
 @media (max-width: 991px) {
   #navbarNav {
-    background:#bfc1c1;
+    background:#ffffff;
     max-height: 100vh;
     padding: 20px;
     overflow: auto; }
