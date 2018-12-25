@@ -148,9 +148,6 @@ a:hover {
     padding-top: 0px;
 }
 
-.navbar-logo {
-    padding-left: 32px;
-}
 
 .contact-container {
     text-align: right;
@@ -159,8 +156,6 @@ a:hover {
 .home-container {
     padding-top: 50px;
 }
-
-
 
 @media (max-width: 991px) {
     .padding-box {
