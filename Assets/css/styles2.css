@@ -165,7 +165,7 @@ a:hover {
 
 
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
     .padding-box {
         margin-top: 80px;
     }
@@ -197,9 +197,13 @@ a:hover {
         padding-bottom: 100px;
     }
 
+    .navbar-nav{
+      text-align: center;
+    }
+
 }
 
-@media (min-width: 767px) {
+@media (min-width: 991px) {
   .lgo-mobile{
     display:none;
   }
@@ -211,10 +215,12 @@ a:hover {
   .address-br{
     display: none;
   }
-}
 
-.navbar-nav{
-  padding-left: 20rem;
+  .navbar-nav{
+    padding-left: 20rem;
+  }
+
+
 }
 
 .nav-link .p-4 .active{
