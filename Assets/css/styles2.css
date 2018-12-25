@@ -161,6 +161,10 @@ a:hover {
     .padding-box {
         margin-top: 80px;
     }
+
+    .logosize{
+        width: 50%;
+    }
     .header-padding {
         margin: 0 auto;
     }
